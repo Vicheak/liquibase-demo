@@ -1,1 +1,0 @@
-ALTER SEQUENCE brands_brand_id_seq RESTART WITH 3;

@@ -13,5 +13,3 @@ databaseChangeLog:
                   name: brand_name
                   type: VARCHAR(50)
             file: db/data/002_insert_brands.csv
-        - sqlFile:
-            path: db/changelog/changing_sequence.sql
